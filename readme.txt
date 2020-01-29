@@ -1,5 +1,6 @@
 TheYinz is a fun little project to create a web page that can display current or live tweets relevant to anyone...
-living in or interested in the very unique and very charming Pittsburgh area ;)
+living in or interested in the very unique and very charming Pittsburgh area ;) ...
+using only two primary packages and the Twitter API.
 
 CURRENT BUILD SETUP:
 - have npm installed and install the following packages: Express, Twit
